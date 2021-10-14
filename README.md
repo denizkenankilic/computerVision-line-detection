@@ -1,2 +1,2 @@
 # computerVision-line-detection
-Line Detection Algorithm by Using Hough Transform
+Line Detection Algorithm by Utilizing the Hough Transform
